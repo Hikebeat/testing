@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController2: UIViewController {
     
+    // Funny Funny
     @IBOutlet weak var CheckOutLabel: UITextField!
     
     @IBAction func checkOutButton(sender: AnyObject) {
