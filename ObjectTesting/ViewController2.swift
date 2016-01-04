@@ -15,6 +15,8 @@ class ViewController2: UIViewController {
     
     @IBAction func checkOutButton(sender: AnyObject) {
         checkOutStation = CheckOutLabel.text
+        
+        // lalala
     }
     
 }
