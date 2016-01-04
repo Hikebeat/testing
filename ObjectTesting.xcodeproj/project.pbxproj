@@ -165,6 +165,7 @@
 		854A4DCE1A856676003DD233 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Niklas Gundlev";
 				TargetAttributes = {
@@ -417,6 +418,7 @@
 				854A4DF71A856676003DD233 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		854A4DF81A856676003DD233 /* Build configuration list for PBXNativeTarget "ObjectTestingTests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +427,7 @@
 				854A4DFA1A856676003DD233 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
